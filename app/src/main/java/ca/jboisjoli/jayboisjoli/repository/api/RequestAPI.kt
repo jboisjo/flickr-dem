@@ -11,7 +11,7 @@ import java.net.URL
 
 internal class RequestAPI {
 
-    private var apiKey = "abbe789cf545bf87978f2893d0f50011"
+    private var apiKey = "b3380a67070b4cb848414a17c9b58433"
     private var apiUrl = "https://api.flickr.com/services/rest"
 
     private var apiMethodSearch = "flickr.photos.search"
